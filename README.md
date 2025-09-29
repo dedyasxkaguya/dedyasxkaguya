@@ -1,51 +1,52 @@
-# 🎀 Konnichiwa! Saya Dedyas (~nyan) 🎀
+# Halo! Saya **Dedyas** 👋
 
-### **"Apakah Saya Ingin Menjadi Developer Hebat? Ya. Akankah Saya Mengakuinya? Tidak."** 😉
+### Calon Software Engineer, Saat Ini Belajar Keras di Dunia Kode!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F996A5&center=true&vCenter=true&width=430&lines=Mahasiswa+Teknik+Perangkat+Lunak;Mencintai+JavaScript+dan+Web+Dev;Selalu+Siap+Untuk+Proyek+Baru!)](https://git.io/typing-svg)
 
 <br>
 
+---
+
+## 🛠️ My Current Focus
+
+| Icon | Status & Target |
+| :--- | :--- |
+| **🚀** | **Project Utama:** Menyelesaikan **My Portfolio** v2.0 dengan React dan Tailwind CSS. |
+| **💡** | **Learning Path:** Mendalami **JavaScript (ES6+)** dan konsep **Framework Frontend** (React). |
+| **🤝** | **Open to Collab:** Mencari **Designer (UI/UX)** untuk proyek kolaboratif! |
+
+---
+
+## 💻 Tech Stack & Stats
+
+### Bahasa & Tools Favorit:
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/main/Kaguya-sama%20Love%20Is%20War/Kaguya%20Shinomiya.png" width="200" alt="Kaguya Shinomiya coding" />
-  </p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
+</p>
+
+### GitHub Stats:
+
+[![Dedyas GitHub Stats](https://github-readme-stats.vercel.app/api?username=dedyasxkaguya&show_icons=true&theme=nord&hide_border=true&count_private=true)](https://github.com/dedyasxkaguya)
 
 ---
 
-## 📝 Status Perang (Coding War) Saat Ini:
+## 📌 Connect & Ask Anything!
 
-Sebagai **siswa teknik perangkat lunak**, inilah strategi yang sedang saya jalankan:
+> "Kemenangan sejati adalah saat kamu berhasil menulis kode yang bersih dan fungsional."
 
-* **⚔️ Misi Utama:** Membangun **Benteng Portofolio** saya. (Sedang dalam tahap *deployment*!)
-* **🧠 Senjata Baru:** Mengasah kemampuan **JavaScript** (Level up *in progress* ⏫).
-* **🛡️ Perekrutan:** Mencari **Desainer** (UI/UX) untuk aliansi strategis!
-* **❓ Tanya Saya:** **Apa pun** tentang kode, anime, atau tantangan *debug* paling menyebalkan.
-* **📩 Jangkauan:** Cara tercepat untuk menghubungi saya? **Instagram!**
-* **👤 Identitas:** **He/Him**.
-* **✨ Fun Fact:** Saya yakin bahwa 90% masalah *bug* bisa diselesaikan dengan tidur sebentar. *Nyan.* 😴
+- **Pronouns:** He/Him
+- **Email:** `dedysgithub@gmail.com`
+- **Instagram:** [@dedyas\_](https://instagram.com/dedyas_)
+- **Fun Fact:** Saya bisa menghabiskan waktu berjam-jam mencoba mencari *bug* kecil yang ternyata hanya karena satu titik koma. 😅
 
 ---
-
-## 🎯 Target Utama (Roadmap)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dedyasxkaguya&theme=gotham&hide_border=true&point=FFFFFF&line=F996A5" alt="Activity Graph" />
+  <img src="https://komarev.com/ghpvc/?username=dedyasxkaguya&color=B0C4DE" alt="Profile views" />
 </div>
-
-| Area | Status | Target Berikutnya |
-| :--- | :--- | :--- |
-| **Frontend** | 🟢 Familiar | Menguasai *State Management* dengan Redux/Zustand. |
-| **Backend** | 🟡 Belajar | Membuat API sederhana dengan Node.js/Express. |
-| **Versi Kontrol** | 🟢 Mahir | Kontribusi ke proyek *open source* untuk pertama kali! |
-
----
-
-## 💌 Mari Berkenalan
-
-Jangan sungkan untuk menyapa! Saya selalu terbuka untuk diskusi tentang teknologi, proyek sampingan, atau episode anime terbaru.
-
-* **GitHub:** `dedyasxkaguya`
-* **Mail:** `dedysgithub@gmail.com`
-* **Instagram:** [Click Here to DM!](https://instagram.com/dedyas_)
-
-<p align="right">
-  *Psst... Shirogane belum tahu saya belajar React.*
-</p>
