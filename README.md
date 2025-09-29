@@ -1,21 +1,53 @@
-# 👑 Ketua OSIS GitHub: Dedyas
+# 🎀 Konnichiwa! Saya Dedyas (~nyan) 🎀
 
-### "The only result that matters is victory." - Miyuki Shirogane
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=490&lines=Mahasiswa+Teknik+Perangkat+Lunak;Bekerja+Keras+Mengatasi+Kelemahan;Target+Saya+Adalah+Menjadi+Developer+Handal.)](https://git.io/typing-svg)
+### **"Apakah Saya Ingin Menjadi Developer Hebat? Ya. Akankah Saya Mengakuinya? Tidak."** 😉
 
 <br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/main/Kaguya-sama%20Love%20Is%20War/Kaguya%20Shinomiya.png" width="200" alt="Kaguya Shinomiya coding" />
+  </p>
+
 ---
 
-## 🎯 Deklarasi Misi & Perang Otak Saat Ini
+## 📝 Status Perang (Coding War) Saat Ini:
 
-Sebagai Ketua OSIS di dunia *coding*, saya harus selalu memimpin dengan contoh. Inilah fokus utama saya saat ini:
+Sebagai **siswa teknik perangkat lunak**, inilah strategi yang sedang saya jalankan:
 
-| Metafora Misi | Status Perjuangan | Detail & Target |
+* **⚔️ Misi Utama:** Membangun **Benteng Portofolio** saya. (Sedang dalam tahap *deployment*!)
+* **🧠 Senjata Baru:** Mengasah kemampuan **JavaScript** (Level up *in progress* ⏫).
+* **🛡️ Perekrutan:** Mencari **Desainer** (UI/UX) untuk aliansi strategis!
+* **❓ Tanya Saya:** **Apa pun** tentang kode, anime, atau tantangan *debug* paling menyebalkan.
+* **📩 Jangkauan:** Cara tercepat untuk menghubungi saya? **Instagram!**
+* **👤 Identitas:** **He/Him**.
+* **✨ Fun Fact:** Saya yakin bahwa 90% masalah *bug* bisa diselesaikan dengan tidur sebentar. *Nyan.* 😴
+
+---
+
+## 🎯 Target Utama (Roadmap)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dedyasxkaguya&theme=gotham&hide_border=true&point=FFFFFF&line=F996A5" alt="Activity Graph" />
+</div>
+
+| Area | Status | Target Berikutnya |
 | :--- | :--- | :--- |
-| **🚀 Proyek Ketua** | Sedang Dibangun | Menyusun **Portfolio (My Portfolio)** yang *clean* dan efisien (menggunakan React). |
-| **🧠 Pelajaran Malam** | Fokus Tinggi | Menguasai **JavaScript** (khususnya *asynchronous* dan *closure*). |
+| **Frontend** | 🟢 Familiar | 
+| **Versi Kontrol** | 🟢 Mahir |
+
+---
+
+## 💌 Mari Berkenalan
+
+Jangan sungkan untuk menyapa! Saya selalu terbuka untuk diskusi tentang teknologi, proyek sampingan, atau episode anime terbaru.
+
+* **GitHub:** `dedyasxkaguya`
+* **Mail:** `dedysgithub@gmail.com`
+* **Instagram:** [Click Here to DM!](https://instagram.com/dedyas_)
+
+<p align="right">
+  *Psst... Kaguya belum tahu saya belajar React.*
+</p>
 | **🤝 Aliansi Strategis** | Terbuka | Mencari **Designer (UI/UX)** untuk kolaborasi yang saling menguntungkan. |
 | **❓ Tanya Jawab** | **Tantang Saya** | Kirimkan pertanyaan apapun tentang *coding*, studi, atau cara bertahan hidup dengan kopi. |
 
@@ -44,7 +76,7 @@ Saya mungkin bukan jenius alami, tapi saya bekerja keras menguasai alat-alat ini
 
 "Jika kita ingin mencapai tujuan, kita harus memulai langkah pertama." — Hubungi saya untuk diskusi profesional atau kolaborasi!
 
-* **Status:** Mahasiswa Teknik Perangkat Lunak $\mid$ **Pronouns:** He/Him
+* **Status:** Siswa Rekayasa Perangkat Lunak $\mid$ **Pronouns:** He/Him
 * **Email Resmi:** `dedysgithub@gmail.com`
 * **Jalur Cepat (DM):** [Instagram: @dedyas\_](https://instagram.com/dedyas_)
 * **Fun Fact:** Saya bisa *debug* lebih cepat pada jam 3 pagi (mungkin karena kafein, bukan bakat). 😉 *Nyan.*
