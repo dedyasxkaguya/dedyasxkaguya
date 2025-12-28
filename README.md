@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/refs/heads/master/Typescript/Teruhashi_Kokomi_Reading_Essential_Typescript_In_The_Bathroom.png" width="100%" alt="Kaguya Shinomiya coding" />
   <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/refs/heads/master/C/Shinomiya_Kaguya_Reading_C_Programming_Language.png" width="100%" alt="Kaguya Shinomiya coding" />
+  <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/refs/heads/master/Javascript/Doma_Umaru_Java_Script_The_Good_Parts.png" width="100%" alt="Kaguya Shinomiya coding" />
   </p>
 
 ---
