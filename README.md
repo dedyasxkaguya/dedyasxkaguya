@@ -85,7 +85,7 @@ Saya mungkin bukan jenius alami, tapi saya bekerja keras menguasai alat-alat ini
 
 ### **Jadwal Belajar Shirogane (GitHub Stats):**
 
-[![Dedyas GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dedyasxkaguya&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dedyasxkaguya&theme=tokyonight&hide_border=true&locale=id&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
