@@ -1,8 +1,8 @@
 # 🎀 Konnichiwa! Saya Dedyas (~nyan) 🎀
 
-### **"Apakah Saya Ingin Menjadi Developer Hebat? Ya. Akankah Saya Mengakuinya? Tidak."** 😉
+## **"Apakah Saya Ingin Menjadi Developer Hebat? Ya. Akankah Saya Mengakuinya? Tidak."** 😉
 
-# "A Developer who needed a designer in his life"
+### "A Developer who needed a designer in his life"
 <br>
 
 <p align="center">
