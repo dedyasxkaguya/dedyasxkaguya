@@ -2,6 +2,7 @@
 
 ### **"Apakah Saya Ingin Menjadi Developer Hebat? Ya. Akankah Saya Mengakuinya? Tidak."** 😉
 
+#"A Developer whk needed a designer in his life"
 <br>
 
 <p align="center">
